@@ -4,8 +4,8 @@ This study aims to investigate the impact of a job portal on female employment r
 
 <hr>
 
-Contributing
-Group Leader -IT21019654 Karunawardhana K.P.I
-Member 2 - IT21065026 Malalasekara C.N.P
-Member 3 - IT21066252 Rathnayaka R.T.P
-Member 4 - IT20056452 Dayarathne K.A.U.V
+Contributing <br>
+Group Leader - IT21019654 Karunawardhana K.P.I <br>
+Member 2 - IT21065026 Malalasekara C.N.P<br>
+Member 3 - IT21066252 Rathnayaka R.T.P<br>
+Member 4 - IT20056452 Dayarathne K.A.U.V<br>
